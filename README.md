@@ -3,8 +3,8 @@
 React Native Animation Header and Zoom in Transition for Card
 
 ## Installation 
-### npm i 
+npm i 
 
 ## Run 
-### iOS: npm run ios 
-### Android: npm run android
+iOS: npm run ios 
+Android: npm run android
